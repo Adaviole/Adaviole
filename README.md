@@ -37,3 +37,17 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # Adaviole
+
+
+
+{code activartringh not for loosers
+
+derf func(
+
+if i cant even touch you and you are in my hands 
+
+)
+
+
+
+}
